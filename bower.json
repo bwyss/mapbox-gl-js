@@ -3,11 +3,8 @@
   "version": "0.36.0",
   "description": "A WebGL interactive maps library",
   "main": [
-    "build/v0.36.0.js",
-    "build/v0.36.0.css"
-  ],
-  "authors": [
-    "Ben <ben@enview.com>"
+    "/build/v0.36.0.js",
+    "/build/v0.36.0.css"
   ],
   "license": "BSD-3-Clause",
   "keywords": [
