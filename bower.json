@@ -8,11 +8,7 @@
   ],
   "license": "BSD-3-Clause",
   "keywords": [
-    "mapboxgl",
-    "webgl",
-    "visualization",
-    "geospatial",
-    "map"
+    "\"mapboxgl\""
   ],
   "homepage": "https://github.com/bwyss/mapbox-gl-js",
   "ignore": [
