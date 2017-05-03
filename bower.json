@@ -1,10 +1,10 @@
 {
   "name": "mapbox-gl",
-  "version": "0.32.1",
+  "version": "0.36.0",
   "description": "A WebGL interactive maps library",
   "main": [
-    "build/v0.32.1.js",
-    "build/v0.32.1.css",
+    "build/v0.36.0.js",
+    "build/v0.36.0.css",
   ],
   "authors": [
     "Ben <ben@enview.com>"
