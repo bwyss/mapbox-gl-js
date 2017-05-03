@@ -7,9 +7,6 @@
     "./build/v0.36.0.css"
   ],
   "license": "BSD-3-Clause",
-  "keywords": [
-    "\"mapboxgl\""
-  ],
   "homepage": "https://github.com/bwyss/mapbox-gl-js",
   "ignore": [
     "**/.*",
