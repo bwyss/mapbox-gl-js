@@ -4,7 +4,7 @@
   "description": "A WebGL interactive maps library",
   "main": [
     "build/v0.36.0.js",
-    "build/v0.36.0.css",
+    "build/v0.36.0.css"
   ],
   "authors": [
     "Ben <ben@enview.com>"
