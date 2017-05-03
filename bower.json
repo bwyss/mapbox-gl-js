@@ -3,10 +3,17 @@
   "version": "0.36.0",
   "description": "A WebGL interactive maps library",
   "main": [
-    "./build/v0.36.0.js",
-    "./build/v0.36.0.css"
+    "build/v0.36.0/mapbox-gl.js",
+    "build/v0.36.0/mapbox-gl.css"
   ],
   "license": "BSD-3-Clause",
+  "keywords": [
+    "mapboxgl",
+    "webgl",
+    "visualization",
+    "geospatial",
+    "map"
+  ],
   "homepage": "https://github.com/bwyss/mapbox-gl-js",
   "ignore": [
     "**/.*",
